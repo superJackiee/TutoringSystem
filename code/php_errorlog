@@ -1,0 +1,33 @@
+[29-Oct-2020 13:48:38 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 13:48:47 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 13:49:10 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 14:09:33 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 14:09:40 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 14:09:41 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 14:09:41 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 14:13:52 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[29-Oct-2020 14:13:53 CST6CDT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/customer/www/mytutoring.pro/public_html/code/includes/class_TransferWise.php on line 72
+[01-Nov-2020 04:00:44 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 04:01:13 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 24
+[01-Nov-2020 04:01:42 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 26
+[01-Nov-2020 04:01:43 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 26
+[01-Nov-2020 12:03:46 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:04:10 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:04:12 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:04:55 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:04:57 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:04:58 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:04:58 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:05:01 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:05:02 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 21
+[01-Nov-2020 12:09:24 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 27
+[01-Nov-2020 12:09:28 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 27
+[01-Nov-2020 12:10:03 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 28
+[01-Nov-2020 12:11:32 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 28
+[01-Nov-2020 12:12:31 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 28
+[01-Nov-2020 12:12:48 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 28
+[01-Nov-2020 12:16:05 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 28
+[01-Nov-2020 12:16:07 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 28
+[01-Nov-2020 12:16:40 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 32
+[01-Nov-2020 12:16:42 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 32
+[01-Nov-2020 12:16:44 CST6CDT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/customer/www/mytutoring.pro/public_html/code/post.php on line 32

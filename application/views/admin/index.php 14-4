@@ -1,0 +1,245 @@
+<div class="dashboard">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="apli_main_part">
+                            <div class="user-profile-top">
+                                <div><div class="user_id">ID:<?php echo user()->id ?></div></div>
+                                <a href="#"><span class="dash-avatar" style="width: 80px; height: 80px; line-height: 80px; font-size: 18px;">
+                                <img src="<?php echo html_escape(get_user_avatar(user())) ?>" alt="<?php echo html_escape(user()->username); ?>">
+                                </span></a>
+                            </div>
+                            <div class="flex-start">
+                                <a class="user_name" href="#"><?php echo user()->username ?></a>
+                                <a class="edit-profile" target="_blank" href="<?php echo base_url('update-profile');?>"><i class="fa fa-edit"></i></a>
+                            </div>
+                            <div class="bluebar"></div>
+                            <div class="user-from"><span>From</span>&nbsp;Melbourne, <span>Australia</span></div>
+                            <div class="user-living"><div><span>Living in</span>&nbsp;Madrid, <span>Spain</span></div></div>
+                            <div class="switch-teacher"><button type="button" class="ant-btn ant-btn-lg"><span>Switch to Teacher Mode</span></button></div>
+                        </div>
+
+                        <!-- Card -->
+                            <div class="ChallengeProgress_learnMoreWrap__1aP75">
+                            <!-- Card image -->
+                            <div class="ChallengeProgress_bannerImg__2ucLP"> <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap"></div>
+                            <div class="ChallengeProgress_bannerTitle__2G6zr"><span>Reach Fluency Faster and Win</span></div>
+                            <p class="ChallengeProgress_bannerDesc__2H_x1"><span>Win rewards for improving your skills and accelerate your learning like never before. Sign up free today!</span></p>
+                            <!-- Button -->
+                            <div class="switch-teacher"><button type="button" class="ant-btn ant-btn-lg" style="width: 100%;color: rgb(0, 191, 189);background-color: transparent;border-color: rgb(0, 191, 189);"><span>Learn More</span></button></div>
+                            </div>
+                        <!-- Card -->
+
+                            <div class="dashboard-wallet-balance">
+                                <div class="wallet-content">
+                                    <div class="left-title">
+                                        <span>Mylanguage Balance</span>
+                                    </div>
+                                    <div class="left-content">
+                                        <span> $ </span>
+                                        <span>11.00 USD </span>
+                                        <a class="add-credit" href="/payment"></a>
+                                    <div>
+                                </div>
+                            </div>
+                            
+                            </div></div>
+                            <div class="dashboard-wallet-balance">
+                                        <div class="wallet-content">
+                                            <div class="left-title">
+                                                <span>Refer a Friend</span>
+                                            </div>
+                                            <div class="left-content">
+                                                <span> $ </span>
+                                                <span>11.00 USD </span>
+                                                <a class="add-credit" href="/payment"></a>
+                                            <div>
+                                        </div>
+                            </div></div></div>
+                            <div class="dashboard-wallet-balance">
+                                        <div class="wallet-content">
+                                            <div class="left-title">
+                                                <span>Test your English level!</span>
+                                            </div>
+                                            <div class="left-content">
+                                                <span>Take the Oxford Online Placement Test</span>
+                                                <a class="add-credit" href="/payment"></a>
+                                            <div>
+                                        </div>
+                            
+                            </div></div></div>
+                            <div class="dashboard-wallet-balance">
+                                        <div class="wallet-content">
+                                            <div class="left-title">
+                                                <span>Download the Mylanguage App</span>
+                                            </div>
+                                            <div class="left-content">
+                                                <span>Learn languages, anytime, anywhere.</span>
+                                                <a class="add-credit" href="/payment"></a>
+                                            <div>
+                                            <!-- <div class="right-content"><img src="/static/media/downloadApp.f4457bad.png" alt="app download" width="68"></div> -->
+
+
+                                        </div>
+                            </div>
+                            </div></div>
+                            <div class="dashboard-wallet-balance">
+                                        <div class="wallet-content">
+                                            <div class="left-title">
+                                                <span>Support</span>
+                                            </div>
+                                            <div class="left-content">
+                                            <ul class="FAQ-content">
+                                            <li><a href="https://support.italki.com/hc/en-us/articles/360023115873-What-are-italki-Credits-" class="italki-a" rel="noopener noreferrer" target="_blank">What are Mylanguage Credits?</a></li>
+                                            <li><a href="https://support.italki.com/hc/en-us/articles/360023115073-Purchasing-Credits" class="italki-a" rel="noopener noreferrer" target="_blank">Purchasing Credits</a></li>
+                                            <li><a href="https://support.italki.com/hc/en-us/articles/360022944554-Lesson-Types" class="italki-a" rel="noopener noreferrer" target="_blank">What are Trial Lessons?</a></li>
+                                            <li><a href="https://support.italki.com/hc/en-us/articles/360022945034-Packages" class="italki-a" rel="noopener noreferrer" target="_blank">What are lesson packages?</a></li>
+                                            <li><a href="https://support.italki.com/hc/en-us/articles/360023116413-Scheduling-and-Taking-Lessons" class="italki-a" rel="noopener noreferrer" target="_blank">Scheduling and taking lessons</a></li>
+                                            <li><a href="https://support.italki.com/hc/en-us/articles/206353298-Notebook-Discussions-and-Answers" class="italki-a" rel="noopener noreferrer" target="_blank">Notebook, Discussions and Answers</a></li>
+                                            <li><a href="https://support.italki.com/hc/en-us/articles/213716298-How-do-I-become-an-italki-teacher-" class="italki-a" rel="noopener noreferrer" target="_blank">How do I become an Mylanguage teacher?</a></li></ul>
+                                            <div>
+                                        </div>
+                            </div>
+                </div></div></div>
+
+					<div class="col-md-8">
+                    <div class="dashboard-wallet-balance">
+                            <div class="learning_languageLevel__3X1MZ">
+                                <div class="learning_title__3SJSQ"><span>Learning Language</span></div>
+                                <div class="learning_language__7a3Be">
+                                    <div>
+                                        <span class="language"><span>Spanish</span></span>
+                                        <span class="tooltip-container-box" gap="5">
+                                            <span class="tooltip-container" placement="bottom">
+                                                <span class="tooltip-reference">
+                                                    <div>
+                                                    <span class="level level-color-2"></span>
+                                                    <span class="level level-color-2"></span>
+                                                    <span class="level level-color-1"></span>
+                                                    <span class="level level-color-1"></span>
+                                                    <span class="level level-color-1"></span>
+                                                    </div>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="learning_completed__32rkp">
+                                <p class="learning_number__ZEVnn">12</p><span>Completed lessons</span>
+                            </div> 
+                        </div>
+						<div class="my-teachers">
+                            <div class="my-teachers-header">
+                                <a href="/contacts/teacher/current">
+                                <span class="my-teachers-title"><span>My Teachers</span></span></a>
+                                <a class="right-icon" href="/contacts/teacher/current"></a>
+                            </div>
+                            <div class="my-teachers-content">
+                                <div class="my-teacher-item">
+                                    <div class="item-left">
+                                        <div class="item-left-avatar">
+                                            <span class="ant-avatar ant-avatar-circle ant-avatar-image" style="width: 48px; height: 48px; line-height: 48px; font-size: 18px;">
+                                            <img src="<?php echo html_escape(get_user_avatar(user())) ?>"></span>
+                                        </div>
+                                        <div>
+                                            <div class="teacher-name">Josué</div>
+                                            <div class="teacher-type">
+                                                <span>Community Tutor</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="teacher-item-right">
+                                        <span class="tooltip-container-box" gap="5">
+                                            <span class="tooltip-container" placement="bottom">
+                                                <span class="tooltip-reference"><i class="fa fa-calendar"></i></span>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="my-teacher-item">
+                                    <div class="item-left">
+                                        <div class="item-left-avatar">
+                                            <span class="ant-avatar ant-avatar-circle ant-avatar-image" style="width: 48px; height: 48px; line-height: 48px; font-size: 18px;">
+                                            <img src="<?php echo html_escape(get_user_avatar(user())) ?>"></span>
+                                        </div>
+                                        <div>
+                                            <div class="teacher-name">Josué</div>
+                                            <div class="teacher-type">
+                                                <span>Community Tutor</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="teacher-item-right">
+                                        <span class="tooltip-container-box" gap="5">
+                                            <span class="tooltip-container" placement="bottom">
+                                                <span class="tooltip-reference"><i class="fa fa-calendar"></i></span>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="my-teacher-item">
+                                    <div class="item-left">
+                                        <div class="item-left-avatar">
+                                            <span class="ant-avatar ant-avatar-circle ant-avatar-image" style="width: 48px; height: 48px; line-height: 48px; font-size: 18px;">
+                                            <img src="<?php echo html_escape(get_user_avatar(user())) ?>"></span>
+                                        </div>
+                                        <div>
+                                            <div class="teacher-name">Josué</div>
+                                            <div class="teacher-type">
+                                                <span>Community Tutor</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="teacher-item-right">
+                                        <span class="tooltip-container-box" gap="5">
+                                            <span class="tooltip-container" placement="bottom">
+                                                <span class="tooltip-reference"><i class="fa fa-calendar"></i></span>
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>       </div> 
+                            <div class="community">
+                            <div class="community-header flex-between">
+                                <div class="header-title">
+                                    <span>Community Updates</span>
+                                </div>
+                                <div class="community-dropdown">
+                                    <button type="button" class="ant-btn ant-dropdown-trigger ant-btn-lg ant-btn-block">
+                                        <span class="select_lanugage">
+                                            <span>All my languages</span>
+                                        </span>
+                                        <div class="icon-absolute">
+                                        </div>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="community-content">
+                                <div class="community-item">
+                                    <p class="community-type">
+                                        <span>Notebook</span>
+                                    </p>
+                                    <a class="community-title italki-title-hover" href="/notebook/7268093/entry/1058743">Steve Jobs' speech</a>
+                                    <div class="flex-start">
+                                        <span class="ant-avatar ant-avatar-circle" style="width: 40px; height: 40px; line-height: 40px; font-size: 18px;">
+                                        </span>
+                                    <div class="community-user-right">
+                                        <p class="user-name">ailanabh</p>
+                                        <p class="community-language">
+                                            <span>English</span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <a class="content text-overflow italki-title-hover" href="/notebook/7268093/entry/1058743">
+                                <div>I want to give you some information about</div>
+                        </a>
+                        <div class="flex-end">
+                            <span class="icon-bar flex-start">
+                               <span class="number">0</span>
+                            </span>
+                        </div>
+                    </div>
+                      
+                            </div>
+					</div>
+                    

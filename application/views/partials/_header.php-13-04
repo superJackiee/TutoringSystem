@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+       <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<title><?php echo html_escape($title); ?> - <?php echo html_escape($settings->site_title); ?></title>
+		<meta name="description" content="<?php echo html_escape($description); ?>"/>
+        <meta name="keywords" content="<?php echo html_escape($keywords); ?>"/>
+        <meta name="author" content="EkamSoftwares"/>
+        <meta name="robots" content="all"/>
+        <meta name="revisit-after" content="1 Days"/>
+        <meta property=og:locale content=en_US/>
+        <meta property=og:site_name content="<?php echo $settings->application_name; ?>"/>
+<?php if (isset($page_type)): ?>
+        <meta property="og:type" content="<?php echo $og_type; ?>"/>
+        <meta property="og:title" content="<?php echo html_escape($post->title); ?>"/>
+        <meta property="og:description" content="<?php echo html_escape($post->summary); ?>"/>
+        <meta property="og:url" content="<?php echo $og_url; ?>"/>
+        <meta property="og:image" content="<?php echo $og_image; ?>"/>
+        <meta property="og:image:width" content="750" />
+        <meta property="og:image:height" content="500" />
+        <meta name=twitter:card content=summary/>
+        <meta name=twitter:title content="<?php echo html_escape($post->title); ?>"/>
+        <meta name=twitter:description content="<?php echo html_escape($post->summary); ?>"/>
+        <meta name=twitter:image content="<?php echo $og_image; ?>"/>
+<?php else: ?>
+        <meta property=og:type content=website/>
+        <meta property=og:title content="<?php echo html_escape($title); ?> - <?php echo html_escape($settings->site_title); ?>"/>
+        <meta property=og:description content="<?php echo html_escape($description); ?>"/>
+        <meta property=og:url content="<?php echo base_url(); ?>"/>
+        <meta name=twitter:card content=summary/>
+        <meta name=twitter:title content="<?php echo html_escape($title); ?> - <?php echo html_escape($settings->site_title); ?>"/>
+        <meta name=twitter:description content="<?php echo html_escape($description); ?>"/>
+<?php endif; ?>
+
+	 
+	   <link rel="shortcut icon" type="image/png" href="<?php echo get_favicon($vsettings); ?>"/>
+
+        <!-- Font-awesome CSS -->
+        <link href="<?php echo base_url(); ?>assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+
+        <!-- Simple-line-icons CSS -->
+        <link href="<?php echo base_url(); ?>assets/vendor/simple-line-icons/css/simple-line-icons.css"
+              rel="stylesheet"/>
+
+        <!-- Ionicons CSS -->
+        <link href="<?php echo base_url(); ?>assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet"/>
+      <link rel="stylesheet" href="<?php echo base_url();?>asset/css/bootstrap.min.css"/>
+	  
+	    <?php echo $primary_font_url; ?>
+        <?php echo $secondary_font_url; ?>
+        <?php echo $tertiary_font_url; ?>
+		
+		<!-- Owl Carousel -->
+        <link href="<?php echo base_url(); ?>assets/vendor/owl-carousel/owl.carousel.min.css" rel="stylesheet"/>
+        <link href="<?php echo base_url(); ?>assets/vendor/owl-carousel/owl.theme.default.min.css" rel="stylesheet"/>
+		
+		<!-- iCheck -->
+        <link rel="stylesheet" href="<?php echo base_url(); ?>assets/vendor/icheck/minimal/green.css"/>
+
+        <!-- Jquery Confirm CSS -->
+        <link href="<?php echo base_url(); ?>assets/vendor/jquery-confirm/jquery-confirm.min.css" rel="stylesheet"/>
+
+        <!-- Magnific Popup-->
+        <link href="<?php echo base_url(); ?>assets/vendor/magnific-popup/magnific-popup.css" rel="stylesheet"/>
+		<!-- Color CSS -->
+        <?php if ($vsettings->site_color == '') : ?>
+            <link href="<?php echo base_url(); ?>assets/css/colors/default.css" rel="stylesheet"/>
+        <?php else : ?>
+            <link href="<?php echo base_url(); ?>assets/css/colors/<?php echo html_escape($vsettings->site_color); ?>.css"
+                  rel="stylesheet"/>
+        <?php endif; ?>
+		<link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css" type="text/css"/>
+      <link rel="stylesheet" href="<?php echo base_url();?>asset/css/all.min.css"/>
+      <link rel="stylesheet" href="<?php echo base_url();?>asset/css/style.css" type="text/css"/>
+      <link rel="stylesheet" href="<?php echo base_url();?>asset/css/responsive.css" type="text/css"/>
+	  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9/dist/sweetalert2.min.js"></script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@9/dist/sweetalert2.min.css" id="theme-styles">
+	  <!--Include Font Style-->
+        <?php $this->load->view('partials/_font_style'); ?>
+		<?php echo $settings->google_analytics; ?>
+		<script>
+    var base_url = '<?php echo base_url(); ?>';
+    var csfr_token_name = '<?php echo $this->security->get_csrf_token_name(); ?>';
+    var csfr_cookie_name = '<?php echo $this->config->item('csrf_cookie_name'); ?>';
+</script>
+   </head>
+   <body>
+	<!-- header start here -->
+	
+		<header>
+			<div class="header_sec">
+					<a href="" class="logo"><img src="<?php echo base_url();?>asset/images/logo.svg" alt="italki" width="75px" height="38px"></a>
+					<div class="right_sec">
+						<ul class="top-menu top-menu-right">
+							<?php if(is_admin() or is_author()): ?>
+							
+							<li class="dropdown profile-dropdown">
+                                <a class="dropdown-toggle a-profile" data-toggle="dropdown" href="#"
+                                   aria-expanded="false">
+                                    <img src="<?php echo html_escape(get_user_avatar(user())) ?>" alt="<?php echo html_escape(user()->username); ?>">
+                                    <?php echo html_escape(user()->username); ?> <span class="fa fa-angle-down"></span>
+                                </a>
+                                <ul class="dropdown-menu pull-right">
+								 <li>
+									<a href="<?php echo base_url(); ?>dashboard">
+										<i class="fa fa-bars"></i>
+									Dashboard
+									</a>
+                                   </li>
+                                    <?php if (user()->role == "admin" || user()->role == "author") { ?>
+                                        <li>
+                                            <a href="<?php echo base_url(); ?>profile/<?php echo user()->slug; ?>">
+                                                <i class="fa fa-bars"></i>
+                                                <?php echo trans("my_posts"); ?>
+                                            </a>
+                                        </li>
+                                    <?php } ?>
+                                    <li>
+                                        <a href="<?php echo base_url(); ?>reading-list">
+                                            <i class="fa fa-star"></i>
+                                            <?php echo trans("title_reading_list"); ?>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="<?php echo base_url(); ?>update-profile">
+                                            <i class="fa fa-user"></i>
+                                            <?php echo trans("update_profile"); ?>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="<?php echo base_url(); ?>change-password">
+                                            <i class="fa fa-lock"></i>
+                                            <?php echo trans("change_password"); ?>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="<?php echo base_url(); ?>logout">
+                                            <i class="fa fa-sign-out"></i>
+                                            <?php echo trans("logout"); ?>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+
+							<?php else: ?>
+							<li class="top-li-auth">
+							<a class="home_b" href="#" data-toggle="modal" data-target="#modal-login"><?php echo trans("login"); ?>
+							</a>
+							</li>
+							<li>
+							<a href="<?php echo base_url(); ?>register">
+							<input type="button" name="siginin" value="Sign In">
+							</a>
+							</li>
+							<li>
+							<a href="<?php echo base_url(); ?>register">
+								<input type="button" name="teacher" value="Become a Teacher">
+								</a>
+							</li>
+                           
+                        <?php endif; ?>
+						</ul>
+				</div>
+			</div>
+		</header>
+<!--Include modals-->
+<?php $this->load->view('partials/_modals'); ?>

@@ -1,0 +1,2 @@
+[31-Oct-2020 14:48:21 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/tests/WebhookTest.php on line 14
+[31-Oct-2020 14:48:36 CST6CDT] PHP Fatal error:  Class 'Tests\TestCase' not found in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/tests/TransferWiseTest.php on line 12

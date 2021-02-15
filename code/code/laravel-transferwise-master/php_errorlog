@@ -1,0 +1,16 @@
+[31-Oct-2020 14:51:11 CST6CDT] PHP Fatal error:  Call to undefined function env() in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/config/transferwise.php on line 4
+[31-Oct-2020 14:51:18 CST6CDT] PHP Fatal error:  Call to undefined function env() in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/config/transferwise.php on line 4
+[31-Oct-2020 14:52:05 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:52:07 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:52:14 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:52:15 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:52:50 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:52:51 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:53:00 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:53:01 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:53:01 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:53:01 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:53:01 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 4
+[31-Oct-2020 14:53:39 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 5
+[31-Oct-2020 14:53:40 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 5
+[31-Oct-2020 15:00:40 CST6CDT] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/customer/www/mytutoring.pro/public_html/code/code/laravel-transferwise-master/index.php on line 5

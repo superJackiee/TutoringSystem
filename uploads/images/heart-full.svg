@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="28px" viewBox="0 0 30 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon / favourite</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="4.-TEACHER-PROFILE-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4.0.Teacher-profile---desktop" transform="translate(-763.000000, -546.000000)">
+            <g id="icon-/-favourite" transform="translate(763.000000, 545.000000)">
+                <g id="icon-35x35-13">
+                    <path d="M15,4.97142857 C18.0857143,1.88571429 23.1428571,1.88571429 26.2285714,4.97142857 C29.3142857,8.05714286 29.3142857,13.1142857 26.2285714,16.2 L15,27.4285714 L3.77142857,16.2 C0.685714286,13.1142857 0.685714286,8.05714286 3.77142857,4.97142857 C6.85714286,1.88571429 11.9142857,1.8 15,4.97142857 Z" id="Shape" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-path" x="0" y="0" width="30" height="30"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

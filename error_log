@@ -1,0 +1,549 @@
+[31-Jan-2018 11:51:51 UTC] PHP Fatal error:  Call to undefined function josn_encode() in /home/tallypost/public_html/application/controllers/Api.php on line 13
+[31-Jan-2018 12:05:34 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/tallypost/public_html/application/controllers/Api.php on line 32
+[31-Jan-2018 12:05:36 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/tallypost/public_html/application/controllers/Api.php on line 32
+[01-Feb-2018 05:31:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/tallypost/public_html/application/controllers/Api.php on line 72
+[01-Feb-2018 06:11:15 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 52
+[01-Feb-2018 06:11:17 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 52
+[01-Feb-2018 06:11:54 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 52
+[01-Feb-2018 06:44:57 UTC] PHP Fatal error:  Call to undefined method Video_model::get_post_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 98
+[01-Feb-2018 07:02:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 100
+[01-Feb-2018 07:02:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 100
+[01-Feb-2018 07:02:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 100
+[01-Feb-2018 07:02:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 100
+[01-Feb-2018 07:10:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 100
+[01-Feb-2018 07:22:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tallypost/public_html/application/controllers/Api.php on line 100
+[01-Feb-2018 07:22:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tallypost/public_html/application/controllers/Api.php on line 100
+[01-Feb-2018 07:27:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 102
+[01-Feb-2018 07:28:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 102
+[01-Feb-2018 07:28:48 UTC] PHP Parse error:  syntax error, unexpected '(array)' (array) (T_ARRAY_CAST) in /home/tallypost/public_html/application/controllers/Api.php on line 101
+[01-Feb-2018 07:31:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 102
+[01-Feb-2018 07:31:07 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 102
+[01-Feb-2018 07:40:24 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:40:25 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:40:26 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:40:48 UTC] PHP Fatal error:  Call to undefined method Api::library() in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:54 UTC] PHP Fatal error:  Call to undefined method Api::library() in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:55 UTC] PHP Fatal error:  Call to undefined method Api::library() in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:55 UTC] PHP Fatal error:  Call to undefined method Api::library() in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:55 UTC] PHP Fatal error:  Call to undefined method Api::library() in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:56 UTC] PHP Fatal error:  Call to undefined method Api::library() in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:56 UTC] PHP Fatal error:  Call to undefined method Api::library() in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:57 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:57 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:57 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:57 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:57 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:58 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:58 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:41:58 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:42:00 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:42:31 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:42:32 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:42:32 UTC] PHP Fatal error:  Call to a member function library() on null in /home/tallypost/public_html/application/controllers/Api.php on line 9
+[01-Feb-2018 07:44:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 07:44:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 07:44:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 07:48:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:40:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:40:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:40:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:40:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:40:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:41:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:41:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:41:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:41:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[01-Feb-2018 11:42:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 123
+[01-Feb-2018 11:42:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 123
+[01-Feb-2018 11:42:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 123
+[01-Feb-2018 11:42:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 123
+[01-Feb-2018 11:42:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 123
+[01-Feb-2018 11:42:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 123
+[01-Feb-2018 11:42:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tallypost/public_html/application/controllers/Api.php on line 123
+[01-Feb-2018 12:37:53 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/controllers/Api.php on line 115
+[01-Feb-2018 12:37:57 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/controllers/Api.php on line 115
+[01-Feb-2018 12:39:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/controllers/Api.php on line 115
+[01-Feb-2018 12:39:17 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/controllers/Api.php on line 115
+[02-Feb-2018 04:15:51 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/controllers/Api.php on line 115
+[02-Feb-2018 04:15:53 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/controllers/Api.php on line 115
+[02-Feb-2018 04:15:54 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/controllers/Api.php on line 115
+[02-Feb-2018 04:49:04 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tallypost/public_html/application/controllers/Api.php on line 60
+[02-Feb-2018 05:14:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 68
+[02-Feb-2018 05:14:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 68
+[02-Feb-2018 05:14:59 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 68
+[02-Feb-2018 05:15:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 68
+[02-Feb-2018 05:20:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:20:34 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:20:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:20:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:20:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:20:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:21:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:21:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:21:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 69
+[02-Feb-2018 05:57:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tallypost/public_html/application/controllers/Api.php on line 75
+[02-Feb-2018 05:57:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tallypost/public_html/application/controllers/Api.php on line 75
+[02-Feb-2018 05:57:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tallypost/public_html/application/controllers/Api.php on line 75
+[02-Feb-2018 05:57:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tallypost/public_html/application/controllers/Api.php on line 75
+[02-Feb-2018 07:01:32 UTC] PHP Fatal error:  Call to undefined method Api::get_page_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 129
+[02-Feb-2018 07:02:07 UTC] PHP Fatal error:  Call to undefined method Api::get_page_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 129
+[02-Feb-2018 07:02:10 UTC] PHP Fatal error:  Call to undefined method Api::get_page_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 129
+[02-Feb-2018 07:04:57 UTC] PHP Fatal error:  Call to undefined method Api::get_pages_sitemap() in /home/tallypost/public_html/application/controllers/Api.php on line 129
+[02-Feb-2018 07:06:46 UTC] PHP Fatal error:  Call to undefined method Api::get_pages_sitemap() in /home/tallypost/public_html/application/controllers/Api.php on line 129
+[02-Feb-2018 09:36:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 131
+[02-Feb-2018 10:46:48 UTC] PHP Fatal error:  Call to undefined method Page_model::get_videos() in /home/tallypost/public_html/application/controllers/Api.php on line 128
+[02-Feb-2018 11:06:21 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 140
+[02-Feb-2018 11:07:03 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/tallypost/public_html/application/controllers/Api.php on line 144
+[02-Feb-2018 11:07:21 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/tallypost/public_html/application/controllers/Api.php on line 144
+[02-Feb-2018 11:19:23 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET), expecting identifier (T_STRING) in /home/tallypost/public_html/application/controllers/Api.php on line 140
+[02-Feb-2018 11:29:18 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/tallypost/public_html/application/controllers/Api.php on line 141
+[02-Feb-2018 11:32:35 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/tallypost/public_html/application/controllers/Api.php on line 140
+[02-Feb-2018 11:33:00 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/tallypost/public_html/application/controllers/Api.php on line 140
+[02-Feb-2018 11:33:00 UTC] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/tallypost/public_html/application/controllers/Api.php on line 140
+[05-Feb-2018 05:19:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 13
+[05-Feb-2018 05:19:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 13
+[05-Feb-2018 05:42:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 13
+[05-Feb-2018 05:42:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 13
+[05-Feb-2018 05:42:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 13
+[05-Feb-2018 05:44:58 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 64
+[05-Feb-2018 05:45:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 64
+[05-Feb-2018 05:45:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 64
+[05-Feb-2018 05:45:08 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 64
+[05-Feb-2018 05:45:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 64
+[05-Feb-2018 05:45:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 64
+[05-Feb-2018 05:47:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 79
+[05-Feb-2018 05:47:43 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 79
+[05-Feb-2018 05:48:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 79
+[05-Feb-2018 06:03:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Api.php on line 145
+[05-Feb-2018 06:03:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Api.php on line 145
+[05-Feb-2018 06:47:33 UTC] PHP Fatal error:  Call to undefined method Page_model::index() in /home/tallypost/public_html/application/controllers/Api.php on line 120
+[05-Feb-2018 06:47:37 UTC] PHP Fatal error:  Call to undefined method Page_model::index() in /home/tallypost/public_html/application/controllers/Api.php on line 120
+[05-Feb-2018 07:09:15 UTC] PHP Fatal error:  Call to undefined function homepage() in /home/tallypost/public_html/application/controllers/Api.php on line 119
+[05-Feb-2018 07:17:24 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:17:25 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:17:26 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:32:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:32:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:40:16 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tallypost/public_html/application/controllers/Api.php on line 131
+[05-Feb-2018 07:40:18 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/tallypost/public_html/application/controllers/Api.php on line 131
+[05-Feb-2018 07:43:55 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:44:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:44:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:44:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:46:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:46:20 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ']' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:46:56 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:46:57 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:46:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:47:40 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:47:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:47:44 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 07:54:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[05-Feb-2018 07:54:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 122
+[05-Feb-2018 08:13:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 120
+[05-Feb-2018 11:17:19 UTC] PHP Fatal error:  Call to a member function result() on null in /home/tallypost/public_html/application/controllers/Api.php on line 139
+[05-Feb-2018 11:17:22 UTC] PHP Fatal error:  Call to a member function result() on null in /home/tallypost/public_html/application/controllers/Api.php on line 139
+[05-Feb-2018 11:51:05 UTC] PHP Fatal error:  Call to undefined method Tag_model::get_all_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:51:07 UTC] PHP Fatal error:  Call to undefined method Tag_model::get_all_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:54:10 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:54:11 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:54:38 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:54:39 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:54:40 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:57:01 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:57:03 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:57:06 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 11:57:06 UTC] PHP Fatal error:  Call to undefined method Tag_model::all_get_tags() in /home/tallypost/public_html/application/controllers/Api.php on line 121
+[05-Feb-2018 12:23:01 UTC] PHP Fatal error:  Call to undefined function print_() in /home/tallypost/public_html/application/controllers/Api.php on line 287
+[05-Feb-2018 12:23:02 UTC] PHP Fatal error:  Call to undefined function print_() in /home/tallypost/public_html/application/controllers/Api.php on line 287
+[05-Feb-2018 12:23:03 UTC] PHP Fatal error:  Call to undefined function print_() in /home/tallypost/public_html/application/controllers/Api.php on line 287
+[06-Feb-2018 05:09:59 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:00 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:00 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:01 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:15 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:16 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:16 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:17 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:17 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:17 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:17 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:17 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:18 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:18 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:10:18 UTC] PHP Fatal error:  Call to a member function modal() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:11:11 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:11:12 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:12:43 UTC] PHP Fatal error:  Call to undefined method Api::model() in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:12:44 UTC] PHP Fatal error:  Call to undefined method Api::model() in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:12:56 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:14:39 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:14:40 UTC] PHP Fatal error:  Call to a member function model() on null in /home/tallypost/public_html/application/controllers/Api.php on line 10
+[06-Feb-2018 05:15:08 UTC] PHP Fatal error:  Call to a member function all_get_tags() on null in /home/tallypost/public_html/application/controllers/Api.php on line 11
+[06-Feb-2018 05:15:10 UTC] PHP Fatal error:  Call to a member function all_get_tags() on null in /home/tallypost/public_html/application/controllers/Api.php on line 11
+[08-Feb-2018 04:16:54 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 368
+[08-Feb-2018 04:16:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Api.php on line 368
+[08-Feb-2018 06:06:29 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/controllers/Api.php on line 409
+[08-Feb-2018 06:06:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/controllers/Api.php on line 409
+[08-Feb-2018 06:06:44 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/controllers/Api.php on line 409
+[08-Feb-2018 06:06:51 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/controllers/Api.php on line 409
+[08-Feb-2018 06:06:53 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/controllers/Api.php on line 409
+[08-Feb-2018 06:06:55 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/controllers/Api.php on line 409
+[08-Feb-2018 06:08:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/controllers/Api.php on line 409
+[08-Feb-2018 06:19:16 UTC] PHP Parse error:  syntax error, unexpected 'get_category' (T_STRING), expecting '(' in /home/tallypost/public_html/application/models/Api_model.php on line 186
+[08-Feb-2018 06:19:17 UTC] PHP Parse error:  syntax error, unexpected 'get_category' (T_STRING), expecting '(' in /home/tallypost/public_html/application/models/Api_model.php on line 186
+[08-Feb-2018 06:19:30 UTC] PHP Parse error:  syntax error, unexpected 'get_category' (T_STRING), expecting '(' in /home/tallypost/public_html/application/models/Api_model.php on line 186
+[08-Feb-2018 06:28:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Api.php on line 405
+[08-Feb-2018 06:28:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Api.php on line 405
+[08-Feb-2018 06:28:55 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Api.php on line 405
+[08-Feb-2018 06:45:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Api.php on line 403
+[08-Feb-2018 06:45:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Api.php on line 403
+[08-Feb-2018 06:46:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 191
+[08-Feb-2018 06:46:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 191
+[08-Feb-2018 08:32:00 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 215
+[08-Feb-2018 08:33:34 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 215
+[08-Feb-2018 08:33:36 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 215
+[08-Feb-2018 08:33:42 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 215
+[08-Feb-2018 11:37:42 UTC] PHP Fatal error:  Call to a member function hash_password() on null in /home/tallypost/public_html/application/controllers/Api.php on line 402
+[08-Feb-2018 11:37:46 UTC] PHP Fatal error:  Call to a member function hash_password() on null in /home/tallypost/public_html/application/controllers/Api.php on line 402
+[08-Feb-2018 11:38:17 UTC] PHP Fatal error:  Call to a member function hash_password() on null in /home/tallypost/public_html/application/controllers/Api.php on line 402
+[08-Feb-2018 11:45:03 UTC] PHP Fatal error:  Call to a member function hash_password() on null in /home/tallypost/public_html/application/controllers/Api.php on line 402
+[08-Feb-2018 11:45:07 UTC] PHP Fatal error:  Call to a member function hash_password() on null in /home/tallypost/public_html/application/controllers/Api.php on line 402
+[08-Feb-2018 12:23:40 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 28
+[08-Feb-2018 12:25:34 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 92
+[08-Feb-2018 12:25:37 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 92
+[08-Feb-2018 12:25:39 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 92
+[08-Feb-2018 12:25:39 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 92
+[08-Feb-2018 12:25:39 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 92
+[08-Feb-2018 12:25:40 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 92
+[08-Feb-2018 12:25:40 UTC] PHP Fatal error:  Call to undefined method Api::categories_order_by_id() in /home/tallypost/public_html/application/controllers/Api.php on line 92
+[12-Feb-2018 04:06:19 UTC] PHP Fatal error:  Call to a member function get_user_by_slug() on null in /home/tallypost/public_html/application/controllers/Api.php on line 403
+[12-Feb-2018 04:23:43 UTC] PHP Fatal error:  Call to a member function get_user_by_slug() on null in /home/tallypost/public_html/application/controllers/Api.php on line 403
+[12-Feb-2018 04:42:12 UTC] PHP Fatal error:  Call to a member function hash_password() on null in /home/tallypost/public_html/application/controllers/Api.php on line 405
+[12-Feb-2018 04:42:17 UTC] PHP Fatal error:  Call to a member function hash_password() on null in /home/tallypost/public_html/application/controllers/Api.php on line 405
+[12-Feb-2018 04:48:46 UTC] PHP Fatal error:  Call to a member function check_password() on null in /home/tallypost/public_html/application/models/Api_model.php on line 230
+[12-Feb-2018 04:48:53 UTC] PHP Fatal error:  Call to a member function check_password() on null in /home/tallypost/public_html/application/models/Api_model.php on line 230
+[12-Feb-2018 05:18:49 UTC] PHP Fatal error:  Call to a member function row() on null in /home/tallypost/public_html/application/models/Api_model.php on line 241
+[12-Feb-2018 05:18:53 UTC] PHP Fatal error:  Call to a member function row() on null in /home/tallypost/public_html/application/models/Api_model.php on line 241
+[12-Feb-2018 05:19:24 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/models/Api_model.php on line 241
+[12-Feb-2018 05:19:27 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::row() in /home/tallypost/public_html/application/models/Api_model.php on line 241
+[12-Feb-2018 06:19:57 UTC] PHP Fatal error:  Call to undefined method Api_model::gensalt_blowfish() in /home/tallypost/public_html/application/models/Api_model.php on line 240
+[12-Feb-2018 06:21:27 UTC] PHP Fatal error:  Call to undefined function CRYPT_BLOWFISH() in /home/tallypost/public_html/application/models/Api_model.php on line 240
+[12-Feb-2018 06:41:53 UTC] PHP Fatal error:  Class 'email' not found in /home/tallypost/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[12-Feb-2018 06:50:28 UTC] PHP Fatal error:  Call to protected method Bcrypt::gensalt_blowfish() from context 'Api_model' in /home/tallypost/public_html/application/models/Api_model.php on line 249
+[12-Feb-2018 06:50:30 UTC] PHP Fatal error:  Call to protected method Bcrypt::gensalt_blowfish() from context 'Api_model' in /home/tallypost/public_html/application/models/Api_model.php on line 249
+[12-Feb-2018 06:58:05 UTC] PHP Fatal error:  Call to undefined method Api_model::get_user_by_email() in /home/tallypost/public_html/application/models/Api_model.php on line 249
+[12-Feb-2018 06:58:09 UTC] PHP Fatal error:  Call to undefined method Api_model::get_user_by_email() in /home/tallypost/public_html/application/models/Api_model.php on line 249
+[12-Feb-2018 07:06:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/models/Api_model.php on line 251
+[12-Feb-2018 08:13:38 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:14:33 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:14:56 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:15:07 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:15:23 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:15:25 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:15:26 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:15:39 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 08:15:50 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 09:31:13 UTC] PHP Fatal error:  Class 'email' not found in /home/tallypost/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[12-Feb-2018 09:31:19 UTC] PHP Fatal error:  Class 'email' not found in /home/tallypost/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[12-Feb-2018 09:36:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/models/Api_model.php on line 256
+[12-Feb-2018 09:36:48 UTC] PHP Fatal error:  Class 'email' not found in /home/tallypost/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[12-Feb-2018 09:36:50 UTC] PHP Fatal error:  Class 'email' not found in /home/tallypost/public_html/system/database/drivers/mysqli/mysqli_result.php on line 183
+[12-Feb-2018 10:19:11 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/tallypost/public_html/application/controllers/Api.php on line 448
+[13-Feb-2018 05:55:54 UTC] PHP Fatal error:  Call to undefined method Api_model::get_user() in /home/tallypost/public_html/application/models/Api_model.php on line 39
+[13-Feb-2018 06:01:01 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_model.php on line 51
+[13-Feb-2018 07:44:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:15 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:19 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:38 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:45:59 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:46:02 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:46:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 07:46:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_model.php on line 338
+[13-Feb-2018 09:49:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Tools.php on line 30
+[13-Feb-2018 09:49:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Tools.php on line 30
+[13-Feb-2018 09:50:35 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/tallypost/public_html/application/controllers/Tools.php on line 67
+[13-Feb-2018 10:22:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/tallypost/public_html/application/controllers/Tools.php on line 25
+[13-Feb-2018 10:22:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/tallypost/public_html/application/controllers/Tools.php on line 25
+[14-Feb-2018 06:25:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tallypost/public_html/application/controllers/Tools.php on line 26
+[14-Feb-2018 06:38:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/controllers/Tools.php on line 38
+[14-Feb-2018 07:31:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/controllers/Tools.php on line 44
+[14-Feb-2018 07:31:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/controllers/Tools.php on line 44
+[14-Feb-2018 10:16:21 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rows() in /home/tallypost/public_html/application/models/Api_model.php on line 403
+[14-Feb-2018 10:16:23 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rows() in /home/tallypost/public_html/application/models/Api_model.php on line 403
+[14-Feb-2018 11:28:54 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rows() in /home/tallypost/public_html/application/controllers/Tools.php on line 33
+[14-Feb-2018 11:31:59 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/tallypost/public_html/application/controllers/Tools.php on line 24
+[14-Feb-2018 11:32:00 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/tallypost/public_html/application/controllers/Tools.php on line 24
+[14-Feb-2018 11:32:00 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/tallypost/public_html/application/controllers/Tools.php on line 24
+[14-Feb-2018 11:34:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Tools.php on line 26
+[14-Feb-2018 11:34:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Tools.php on line 26
+[14-Feb-2018 11:34:05 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Tools.php on line 26
+[14-Feb-2018 11:34:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/tallypost/public_html/application/controllers/Tools.php on line 26
+[15-Feb-2018 04:48:40 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 404
+[15-Feb-2018 04:48:44 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 404
+[15-Feb-2018 04:50:08 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 407
+[15-Feb-2018 04:50:11 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 407
+[15-Feb-2018 04:50:11 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 407
+[15-Feb-2018 04:51:27 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 407
+[15-Feb-2018 04:51:30 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 407
+[15-Feb-2018 04:51:34 UTC] PHP Fatal error:  Call to undefined function get_reading_list_count() in /home/tallypost/public_html/application/models/Api_model.php on line 407
+[15-Feb-2018 04:54:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/models/Api_model.php on line 409
+[15-Feb-2018 04:54:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/models/Api_model.php on line 409
+[15-Feb-2018 04:54:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/models/Api_model.php on line 409
+[15-Feb-2018 04:54:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/models/Api_model.php on line 409
+[15-Feb-2018 04:54:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/models/Api_model.php on line 409
+[15-Feb-2018 04:54:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/models/Api_model.php on line 409
+[15-Feb-2018 05:59:12 UTC] PHP Fatal error:  Class 'CT_Model' not found in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 4
+[15-Feb-2018 05:59:14 UTC] PHP Fatal error:  Class 'CT_Model' not found in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 4
+[15-Feb-2018 05:59:19 UTC] PHP Fatal error:  Class 'CT_Model' not found in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 4
+[15-Feb-2018 06:28:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 38
+[15-Feb-2018 06:28:56 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 38
+[15-Feb-2018 06:49:40 UTC] PHP Parse error:  syntax error, unexpected 'eser' (T_STRING), expecting ']' in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 23
+[15-Feb-2018 07:42:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 42
+[15-Feb-2018 07:42:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 42
+[15-Feb-2018 07:44:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 42
+[15-Feb-2018 07:45:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 40
+[15-Feb-2018 07:45:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_reading_list_model.php on line 40
+[16-Feb-2018 05:02:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 516
+[16-Feb-2018 05:02:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 516
+[16-Feb-2018 05:02:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tallypost/public_html/application/controllers/Api.php on line 516
+[16-Feb-2018 05:41:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 274
+[16-Feb-2018 05:41:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 274
+[16-Feb-2018 05:41:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 274
+[16-Feb-2018 05:41:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 274
+[16-Feb-2018 05:41:53 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 274
+[19-Feb-2018 07:28:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tallypost/public_html/application/controllers/Tools.php on line 24
+[19-Feb-2018 10:34:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/models/Auth_model.php on line 197
+[19-Feb-2018 10:34:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tallypost/public_html/application/models/Auth_model.php on line 197
+[20-Feb-2018 10:41:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Tools.php on line 49
+[20-Feb-2018 10:41:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Tools.php on line 49
+[20-Feb-2018 10:42:30 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Tools.php on line 50
+[20-Feb-2018 10:42:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Tools.php on line 50
+[20-Feb-2018 10:57:10 UTC] PHP Fatal error:  Call to undefined function get_total_votes() in /home/tallypost/public_html/application/controllers/Tools.php on line 22
+[20-Feb-2018 10:57:14 UTC] PHP Fatal error:  Call to undefined function get_total_votes() in /home/tallypost/public_html/application/controllers/Tools.php on line 22
+[22-Feb-2018 09:58:51 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/tallypost/public_html/application/controllers/Tools.php on line 40
+[22-Feb-2018 10:13:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tallypost/public_html/application/controllers/Tools.php on line 65
+[22-Feb-2018 10:14:02 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/tallypost/public_html/application/controllers/Tools.php on line 65
+[22-Feb-2018 12:20:13 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 400
+[22-Feb-2018 12:20:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 400
+[22-Feb-2018 12:20:47 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 400
+[26-Feb-2018 13:42:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/tallypost/public_html/application/controllers/Api.php on line 75
+[26-Feb-2018 13:42:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/tallypost/public_html/application/controllers/Api.php on line 75
+[26-Feb-2018 13:42:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/tallypost/public_html/application/controllers/Api.php on line 75
+[27-Feb-2018 10:40:38 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:42 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:45 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:47 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:57 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:58 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:40:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function phperror_reporting() in /home/tallypost/public_html/application/models/Comment_model.php on line 1
+[27-Feb-2018 10:50:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 22
+[27-Feb-2018 10:50:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 22
+[27-Feb-2018 10:50:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 22
+[27-Feb-2018 10:50:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 22
+[27-Feb-2018 10:51:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 22
+[27-Feb-2018 10:51:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:51:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:51:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:51:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:51:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:51:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 10:52:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 21
+[27-Feb-2018 14:52:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 23
+[27-Feb-2018 14:57:14 Asia/Kolkata] PHP Fatal error:  Call to undefined function result() in /home/tallypost/public_html/application/models/Comment_model.php on line 23
+[27-Feb-2018 14:58:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function result() in /home/tallypost/public_html/application/models/Comment_model.php on line 23
+[27-Feb-2018 14:58:22 Asia/Kolkata] PHP Fatal error:  Call to undefined function result() in /home/tallypost/public_html/application/models/Comment_model.php on line 23
+[27-Feb-2018 15:00:25 Asia/Kolkata] PHP Fatal error:  Call to undefined function result() in /home/tallypost/public_html/application/models/Comment_model.php on line 23
+[27-Feb-2018 17:08:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 189
+[27-Feb-2018 17:09:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 189
+[27-Feb-2018 17:09:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 189
+[27-Feb-2018 17:09:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 189
+[27-Feb-2018 17:09:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 189
+[27-Feb-2018 17:09:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 189
+[27-Feb-2018 17:09:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Comment_model.php on line 189
+[27-Feb-2018 18:11:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method Comment_model::post_addcomment() in /home/tallypost/public_html/application/models/Comment_model.php on line 23
+[28-Feb-2018 15:12:00 Asia/Kolkata] PHP Fatal error:  Call to undefined function getcommentcount() in /home/tallypost/public_html/application/views/partials/_comments.php on line 5
+[28-Feb-2018 15:15:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function getuser_as() in /home/tallypost/public_html/application/views/partials/_comments.php on line 5
+[28-Feb-2018 15:47:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/tallypost/public_html/application/models/Comment_model.php on line 31
+[01-Mar-2018 12:34:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_categories_model.php on line 116
+[01-Mar-2018 12:34:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/models/Api_categories_model.php on line 116
+[01-Mar-2018 14:16:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND), expecting ')' in /home/tallypost/public_html/application/models/Api_model.php on line 48
+[08-Mar-2018 12:39:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'api_share_facebook' (T_STRING), expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 846
+[08-Mar-2018 12:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'api_share_facebook' (T_STRING), expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 846
+[08-Mar-2018 12:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'api_share_facebook' (T_STRING), expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 846
+[08-Mar-2018 12:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'api_share_facebook' (T_STRING), expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 846
+[08-Mar-2018 12:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'api_share_facebook' (T_STRING), expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 846
+[08-Mar-2018 12:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'api_share_facebook' (T_STRING), expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 846
+[08-Mar-2018 12:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'api_share_facebook' (T_STRING), expecting variable (T_VARIABLE) in /home/tallypost/public_html/application/controllers/Api.php on line 846
+[08-Mar-2018 15:59:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/models/Api_share_model.php on line 51
+[08-Mar-2018 15:59:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/models/Api_share_model.php on line 51
+[15-Mar-2018 11:18:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/tallypost/public_html/application/controllers/Api.php on line 470
+[22-Mar-2018 13:16:46 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tallypost/public_html/application/controllers/Api.php on line 806
+[22-Mar-2018 13:16:47 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tallypost/public_html/application/controllers/Api.php on line 806
+[22-Mar-2018 13:16:48 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tallypost/public_html/application/controllers/Api.php on line 806
+[22-Mar-2018 13:17:25 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tallypost/public_html/application/controllers/Api.php on line 806
+[22-Mar-2018 13:17:29 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tallypost/public_html/application/controllers/Api.php on line 806
+[22-Mar-2018 13:18:13 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tallypost/public_html/application/controllers/Api.php on line 806
+[22-Mar-2018 13:18:17 Asia/Kolkata] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tallypost/public_html/application/controllers/Api.php on line 806
+[23-Mar-2018 10:03:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Api.php on line 752
+[23-Mar-2018 10:04:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Api.php on line 752
+[23-Mar-2018 10:04:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Api.php on line 752
+[23-Mar-2018 10:05:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Api.php on line 752
+[23-Mar-2018 10:05:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Api.php on line 752
+[23-Mar-2018 10:05:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/tallypost/public_html/application/controllers/Api.php on line 752
+[23-Mar-2018 17:31:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:31:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:31:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:31:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:31:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:31:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:32:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:34:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:34:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:34:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:34:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:34:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:34:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:35:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:35:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:35:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:35:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:36:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:36:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:38:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:38:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:38:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:38:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:38:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:38:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:38:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:38:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:38:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:38:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:38:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:38:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:38:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:38:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:39:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:39:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:40:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:40:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:40:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:40:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/tallypost/public_html/application/controllers/Api.php on line 909
+[23-Mar-2018 17:40:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:41:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:41:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[23-Mar-2018 17:41:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''st' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/tallypost/public_html/application/controllers/Api.php on line 633
+[23-Mar-2018 17:41:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$time' (T_VARIABLE) in /home/tallypost/public_html/application/models/Api_login_model.php on line 96
+[02-May-2020 15:50:01 Asia/Kolkata] PHP Fatal error:  Cannot declare class Home, because the name is already in use in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/application/models/Home_model.php on line 961
+[02-May-2020 15:50:02 Asia/Kolkata] PHP Fatal error:  Cannot declare class Home, because the name is already in use in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/application/models/Home_model.php on line 961
+[02-May-2020 15:50:03 Asia/Kolkata] PHP Fatal error:  Cannot declare class Home, because the name is already in use in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/application/models/Home_model.php on line 961
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:49 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:50 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:25:56 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[06-May-2020 19:26:23 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/iq92j1jgu5kr/public_html/mylanguagepro.com/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/iq92j1jgu5kr/public_html/mylanguagepro.com/system/core/Exceptions.php on line 268
+[14-Oct-2020 19:23:35 UTC] Stripe Notice: Undefined property of Stripe\Transfer instance: status

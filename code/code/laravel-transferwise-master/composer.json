@@ -1,0 +1,21 @@
+{
+    "name": "sharik709/laravel-transferwise",
+    "description": "It will allow easy integration with transferwise for making payouts",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TransferWise\\" : "./src",
+            "TransferWise\\Test\\" : "./tests"
+        }
+    },
+    "authors": [
+        {
+          "name": "saleh shneiwer",
+          "email": "smilesecond@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
